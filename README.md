@@ -1,6 +1,6 @@
 # courses
 # Completed Courses
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](../pics/openSAP-logo.png "openSAP logo")
 * [ABAP Development for SAP HANA](../pdf/a4h1_ConfirmationOfParticipation.pdf)
 * [AI Ethics at SAP (Edition Q12024)](../pdf/aie1-2_RecordOfAchievement.pdf)
 * [Building AI and Sustainability Solutions on SAP BTP](../pdf/sustai1_RecordOfAchievement.pdf)
