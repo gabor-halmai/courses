@@ -1,4 +1,3 @@
-# Completed Courses
 ## Completed Courses with certificates
 ![alt text](pics/openSAP-logo.png "openSAP logo")
 * [ABAP Development for SAP HANA](pdf/a4h1_ConfirmationOfParticipation.pdf)
