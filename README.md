@@ -1,4 +1,4 @@
-# Completed Courses
+# Completed Courses with certificates
 ![alt text](pics/openSAP-logo.png "openSAP logo")
 * [ABAP Development for SAP HANA](pdf/a4h1_ConfirmationOfParticipation.pdf)
 * [AI Ethics at SAP (Edition Q12024)](pdf/aie1-2_RecordOfAchievement.pdf)
@@ -17,3 +17,6 @@
 * [System Conversion to SAP S4HANA (Repeat)](pdf/s4h11-1_RecordOfAchievement.pdf)
 * [What Can Blockchain Do for You](pdf/block1_RecordOfAchievement.pdf)
 * [Writing Testable Code for ABAP](pdf/wtc1_RecordOfAchievement.pdf)
+
+Completed Courses
+* [Practicing Clean Core Extensibility For SAP S/4HANA Cloud](https://learning.sap.com/learning-journeys/practicing-clean-core-extensibility-for-sap-s-4hana-cloud)
